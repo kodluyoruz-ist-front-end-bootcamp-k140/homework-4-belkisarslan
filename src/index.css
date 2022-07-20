@@ -33,3 +33,36 @@ h1{
 .clearfix{
   margin: 20px;
 }
+.flex-items {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+}
+
+.flex-items > div {
+  padding: 20px;
+  flex-basis: 100%;
+}
+
+.section-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 3rem;
+}
+
+.section-header h2 {
+  font-size: 4rem;
+  margin: 2rem 0;
+}
+
+.section-padding {
+  padding: 2rem 2rem 4rem;
+}
+
+.teams img {
+  border-radius: 50%;
+}
