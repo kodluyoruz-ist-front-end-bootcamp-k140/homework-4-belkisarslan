@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+[Netlify Live Demo](https://lighthearted-basbousa-7b2433.netlify.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
