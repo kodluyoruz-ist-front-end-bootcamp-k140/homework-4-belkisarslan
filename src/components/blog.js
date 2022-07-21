@@ -52,7 +52,7 @@ export default function Blog() {
         </div>
         <div class="clearfix">
             <p className="card-text fs-5">En güzelini en sona sakladık :D</p>
-            <img src="https://picsum.photos/id/63/800/600" class="col-md-6 float-md-end mb-3 ms-md-3" alt="..." />
+            <img src="https://picsum.photos/id/766/800/600" class="col-md-6 float-md-end mb-3 ms-md-3" alt="..." />
 
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, blanditiis corporis? Libero sapiente consequatur in, a earum ea sequi amet unde laborum nostrum, consequuntur maiores. Corrupti distinctio ipsum dolorem quis!

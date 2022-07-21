@@ -11,6 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.nav-link{
+  color: #A64B2A;
+}
+.active {
+  background-color: #A64B2A !important;
+}
 img {
   width: 150px;
   height: 300px;
